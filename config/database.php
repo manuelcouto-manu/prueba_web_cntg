@@ -2,10 +2,10 @@
 // Configuración de la base de datos
 
 // Para desarrollo local (si tienes MySQL instalado)
-define('DB_HOST', 'localhost');
-define('DB_USER', 'alumno_tienda_usr');
-define('DB_PASS', '123456789012');
-define('DB_NAME', 'alumno_tienda_db');
+define('DB_HOST', 'vl24381.dinaserver.com');
+define('DB_USER', 'comercia_user');
+define('DB_PASS', 'Dinahosting2026#');
+define('DB_NAME', 'alumno_comercio_db');
 define('DB_PORT', 3306);
 
 // Crear conexión usando MySQLi
