@@ -6,6 +6,7 @@ define('DB_HOST', 'vl24381.dinaserver.com');
 define('DB_USER', 'comercia_user');
 define('DB_PASS', 'Dinahosting2026#');
 define('DB_NAME', 'alumno_comercio_db');
+define("DB_CHARSET", "utf8mb4");
 define('DB_PORT', 3306);
 
 // Crear conexión usando MySQLi
