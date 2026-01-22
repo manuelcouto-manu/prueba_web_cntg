@@ -1,6 +1,6 @@
 <?php
 // Configuración de la base de datos
-
+//prueba com
 // Para desarrollo local (si tienes MySQL instalado)
 define('DB_HOST', 'vl24381.dinaserver.com');
 define('DB_USER', 'comercia_user');
